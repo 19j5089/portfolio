@@ -1,12 +1,13 @@
 module.exports = {
-  "transpileDependencies": [
-    "vuetify"
-  ],
-  devServer: {
-    // host: 'localhost',
-    port: '8080',
-    watchOptions: {
-      poll: true
+    outputDir: 'docs',
+    transpileDependencies: [
+        "vuetify"
+    ],
+    devServer: {
+        // host: 'localhost',
+        port: '8080',
+        watchOptions: {
+            poll: true
+        }
     }
-  }
 }
