@@ -2,7 +2,7 @@
   <v-main>
     <v-parallax
       dark
-      src="@/assets/huji.jpg"
+      src="@/assets/huji2.jpg"
     >
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12">

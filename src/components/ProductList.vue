@@ -36,7 +36,7 @@ export default {
         id: 2,
         name: '電気部ホームページ',
         // TODO: ここに差し替えたい画像のパスを入れてね
-        image: require('@/assets/re-vr.png'),
+        image: require('@/assets/denki_photo.png'),
         year: '2021',
         category: '部活動',
         use: 'html,css',
