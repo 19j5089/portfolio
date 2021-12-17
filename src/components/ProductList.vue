@@ -23,7 +23,7 @@ export default {
         id: 1,
         name: '富戸ブループロジェクト',
         // TODO: ここに差し替えたい画像のパスを入れてね
-        image: require('@/assets/huji.jpg'),
+        image: require('@/assets/re-vr.png'),
         year: '2020',
         category: 'プロジェクト',
         use: 'html,css,P5.js',
@@ -49,7 +49,7 @@ export default {
         id: 3,
         name: '富士登山',
         // TODO: ここに差し替えたい画像のパスを入れてね
-        image: require('@/assets/re-vr.png'),
+        image: require('@/assets/huji.jpg'),
         year: '2019/2021',
         category: '部活動',
         use: '',
